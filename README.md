@@ -2,7 +2,7 @@
 
 Проект по классификации медицинских изображений: определение типа клеток крови при остром лимфобластном лейкозе (ОЛЛ). Сравниваются три архитектуры: самописная CNN, CNN с Dropout и предобученная ResNet18.
 
-**Ссылка на проект:** [blood_cell_cancer_classification.ipynb](https://colab.research.google.com/drive/1BK6i3_er3pRJCgAogXDGduMRY9zeWUtv#scrollTo=8e2PscC9sdVZ)
+**Ссылка на проект:** [blood_cell_cancer_classification.ipynb](https://colab.research.google.com/drive/1BK6i3_er3pRJCgAogXDGduMRY9zeWUtv#scrollTo=U2H5NBzNoCqz)
 **Источник данных:** [Blood Cells Cancer (ALL) dataset](https://www.kaggle.com/datasets/mohammadamireshraghi/blood-cell-cancer-all-4class)
 
 ---
